@@ -4,7 +4,7 @@ Partial WhatsApp UI Clone Using Tabs Controller and Fragments
 ---
 
 **NOW THIS FragmentPagerAdapter IS DEPRECATED SO USE FragmentStateAdapter <br>
-[Visit This for same]()**
+[Visit This for same](https://github.com/ananddasani/Android_Tabs_And_Fragment_NEW)**
 
 ---
 
